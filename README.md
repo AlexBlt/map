@@ -20,6 +20,6 @@ Enfin, le programme écrit dans un fichier "map1_results.txt" l'état final du j
 
 ## A faire
 
-Il reste encore des choses à ajouter/améliorer. Notamment l'architecture du jeu pour ce touche aux déplacements et gestion des personnages. Il manque aussi la présence de test
+Il reste encore des choses à ajouter/améliorer. Notamment l'architecture du jeu pour ce qui touche aux déplacements et gestion des personnages. Il manque aussi la présence de test
 avec Jest par exemple.
 
