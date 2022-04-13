@@ -48,7 +48,6 @@ export class Grid {
 
     move(adventurer: Adventurer, moveList: string): void {
         let moves = [...moveList];
-        console.log(moves)
 
         for(let i=0;i<moves.length;i++) {
             if(['G','D'].includes(moves[i])) {
